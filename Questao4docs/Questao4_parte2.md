@@ -1,3 +1,6 @@
+## Aluno : Heitor Macedo Ricardo
+## Matricula : 241039073
+
 | N° | Afirmativa | Resposta | Explicação |
 | :-- | :--- | :--- | :--- |
 | 1 | O algoritmo de Euclides estendido é utilizado para calcular o inverso modular de um número. | V | O código mostrado é justamente uma implementação do Algoritmo de Euclides estendido, que calcula o inverso modular x1 de a em relação a m. |
