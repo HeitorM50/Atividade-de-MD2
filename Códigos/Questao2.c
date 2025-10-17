@@ -1,3 +1,9 @@
+/* 
+  QUESTÃO 02 - MMC e MDC
+  Aluno: Heitor Macêdo Ricardo
+  Matrícula: 241039073
+  Linguagem: C (compilador: gcc)
+*/
 #include <stdio.h>
 
 // Função MDC (máximo divisor comum)
