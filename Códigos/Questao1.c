@@ -1,3 +1,9 @@
+/* 
+  QUESTÃO 01 
+  Aluno: Heitor Macêdo Ricardo
+  Matrícula: 241039073
+  Linguagem: C (compilador: gcc)
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
